@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "FarmStorage": "UseDevelopmentStorage=true",
+    "SqlConnection": "Server=tcp:agristream-practicum.database.windows.net,1433;Initial Catalog=AgriStreamDB;Persist Security Info=False;User ID=agristream;Password=password123!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  }
+}
